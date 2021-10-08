@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314635549744",
+    "project_id": "iwimhub-81f62",
+    "storage_bucket": "iwimhub-81f62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314635549744:android:4375ee96ddc15fc762c1f5",
+        "android_client_info": {
+          "package_name": "com.example.g_iwim_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314635549744-nqemla0fifobvhhgn7pl945gl46sev6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDejxY_wuyxdagk7aZvPpTOVMjwzvpeAqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314635549744-nqemla0fifobvhhgn7pl945gl46sev6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

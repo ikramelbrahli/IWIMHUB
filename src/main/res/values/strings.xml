@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">G_IWIM_Application</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Bienvenue">Bienvenue sur IWIM Hub</string>
+    <string name="Week">Week</string>
+    <string name="Timetable">Timetable</string>
+    <string name="Prof_list">Professor list</string>
+    <string name="Student_list">Students list</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="register">Register</string>
+    <string name="prenom">Prénom</string>
+    <string name="nom">Nom</string>
+    <string name="Register">Register</string>
+    <string name="Nom">Nom</string>
+    <string name="departement">Departement</string>
+    <string name="new_student">Ajouter un nouveau étudiant</string>
+    <string name="CNE">CNE</string>
+    <string name="message">Votre message</string>
+    <string name="Messages_partagées">Messages partagés</string>
+    <string name="new_user_register_now">new user ? register now</string>
+    <string name="ImageURL">Image url</string>
+    <string name="Ajoutermatiere">Ajouter une matière</string>
+    <string name="BienvenueSurIwimHub">Bienvenue sur IWIMHub</string>
+    <string name="Matières">Matières</string>
+    <string-array name="statut">
+        <item>Etudiant</item>
+        <item>Professeur</item>
+    </string-array>
+</resources>
